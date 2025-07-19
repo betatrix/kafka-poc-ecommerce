@@ -2,7 +2,6 @@ package org.example.kafka;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 
-import java.util.HashMap;
 import java.util.Map;
 
 public class EmailService {
